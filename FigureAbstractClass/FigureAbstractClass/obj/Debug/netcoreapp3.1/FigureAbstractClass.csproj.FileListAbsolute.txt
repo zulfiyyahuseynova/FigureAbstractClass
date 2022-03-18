@@ -1,0 +1,14 @@
+C:\Users\Zulfiyya Huseynova\Desktop\Tasklar\FigureAbstractClass\FigureAbstractClass\bin\Debug\netcoreapp3.1\FigureAbstractClass.exe
+C:\Users\Zulfiyya Huseynova\Desktop\Tasklar\FigureAbstractClass\FigureAbstractClass\bin\Debug\netcoreapp3.1\FigureAbstractClass.deps.json
+C:\Users\Zulfiyya Huseynova\Desktop\Tasklar\FigureAbstractClass\FigureAbstractClass\bin\Debug\netcoreapp3.1\FigureAbstractClass.runtimeconfig.json
+C:\Users\Zulfiyya Huseynova\Desktop\Tasklar\FigureAbstractClass\FigureAbstractClass\bin\Debug\netcoreapp3.1\FigureAbstractClass.runtimeconfig.dev.json
+C:\Users\Zulfiyya Huseynova\Desktop\Tasklar\FigureAbstractClass\FigureAbstractClass\bin\Debug\netcoreapp3.1\FigureAbstractClass.dll
+C:\Users\Zulfiyya Huseynova\Desktop\Tasklar\FigureAbstractClass\FigureAbstractClass\bin\Debug\netcoreapp3.1\FigureAbstractClass.pdb
+C:\Users\Zulfiyya Huseynova\Desktop\Tasklar\FigureAbstractClass\FigureAbstractClass\obj\Debug\netcoreapp3.1\FigureAbstractClass.csproj.AssemblyReference.cache
+C:\Users\Zulfiyya Huseynova\Desktop\Tasklar\FigureAbstractClass\FigureAbstractClass\obj\Debug\netcoreapp3.1\FigureAbstractClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zulfiyya Huseynova\Desktop\Tasklar\FigureAbstractClass\FigureAbstractClass\obj\Debug\netcoreapp3.1\FigureAbstractClass.AssemblyInfoInputs.cache
+C:\Users\Zulfiyya Huseynova\Desktop\Tasklar\FigureAbstractClass\FigureAbstractClass\obj\Debug\netcoreapp3.1\FigureAbstractClass.AssemblyInfo.cs
+C:\Users\Zulfiyya Huseynova\Desktop\Tasklar\FigureAbstractClass\FigureAbstractClass\obj\Debug\netcoreapp3.1\FigureAbstractClass.csproj.CoreCompileInputs.cache
+C:\Users\Zulfiyya Huseynova\Desktop\Tasklar\FigureAbstractClass\FigureAbstractClass\obj\Debug\netcoreapp3.1\FigureAbstractClass.dll
+C:\Users\Zulfiyya Huseynova\Desktop\Tasklar\FigureAbstractClass\FigureAbstractClass\obj\Debug\netcoreapp3.1\FigureAbstractClass.pdb
+C:\Users\Zulfiyya Huseynova\Desktop\Tasklar\FigureAbstractClass\FigureAbstractClass\obj\Debug\netcoreapp3.1\FigureAbstractClass.genruntimeconfig.cache
